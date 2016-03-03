@@ -1,24 +1,10 @@
-## README
+## DHH Chat Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I wanted to play around with Action Cable so I followed DHH's chat demo on his medium (https://github.com/carterdea/dhh-chat-demo.git). I'm very impressed. It's really nice and simple.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Things I should cover here:
+* Ruby 2.3.0
+* Rails 5.0.0.beta3
+* Redis for Prod
+* SQLite
+* Something for jobs (not sure what, lol)
