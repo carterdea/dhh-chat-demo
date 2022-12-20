@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 5.2'
+gem 'rails', '~> 5.2', '>= 5.2.0'
 gem 'sqlite3'
 gem 'puma'
 gem 'hamlit', '~> 2.8'
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 6.0', '>= 6.0.0'
 gem 'uglifier', '~> 4.1'
 gem 'coffee-rails', '~> 4.2.0'
 # gem 'therubyracer', platforms: :ruby
